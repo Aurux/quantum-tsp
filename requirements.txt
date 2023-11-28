@@ -1,0 +1,3 @@
+dwave-ocean-sdk==6.3.0
+matplotlib==3.7.1
+numpy==1.24.3
