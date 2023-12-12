@@ -6,7 +6,7 @@ This program allows you to benchmark and visualise the differences between 4 met
 
 These methods are:
 * Classical bruteforce
-* Greedy convex hull (heuristic)
+* Greedy convex hull insertion (heuristic)
 * Simulated quantum anneal
 * Quantum anneal
 
